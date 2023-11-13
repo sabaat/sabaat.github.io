@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sabaat's Portfolio</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        .conference-tab {
+            background-color: #3498db;
+            color: #ecf0f1;
+            padding: 0.25em 0.5em;
+            border-radius: 3px;
+            font-weight: bold;
+            margin-right: 1em;
+            display: inline-block;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background-color: #2C3E50;
+            color: #ecf0f1;
+            text-align: center;
+            padding: 2em 0;
+        }
+        section {
+            padding: 2em;
+        }
+        .btn {
+            display: inline-block;
+            background-color: transparent; /* Makes the background transparent */
+            color: #3498db; /* Text color */
+            padding: 0.5em 1em;
+            text-decoration: none;
+            margin: 0.5em;
+            border: 2px solid #3498db; /* Adds a border */
+            border-radius: 3px;
+            transition: all 0.3s ease; /* Smooth transition for background and border color */
+        }
+        
+        .btn:hover {
+            background-color: #3498db; /* Background color on hover */
+            color: #ecf0f1; /* Text color on hover */
+            border-color: #2980b9; /* Border color on hover */
+        }
+        .profile-image {
+            width: 150px;
+            height: 170px;
+            border-radius: 50%; /* This will make the image circular */
+            margin: 20px auto;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+​
+<header>
+    <img src="sabaat.JPG" alt="Sabaat Haroon" class="profile-image">
+    <h1>Sabaat Haroon</h1>
+    <p>Machine Learning Systems | Distributed Systems | Federated Learning</p>
+    <a href="#about" class="btn">About Me</a>
+    <a href="#publications" class="btn">Publications</a>
+    <a href="#key-projects" class="btn">Key Projects</a>
+    <a href="#education" class="btn">Education</a>
+    <a href="#additional-experiences" class="btn">Additional Experiences</a>
+    <a href="Sabaat_Resume.pdf" class="btn" download="Sabaat_CV">CV</a>
+</header>
+​
+<section id="about" style="background-color: #f4f4f4; padding: 20px; border-radius: 10px;">
+    <h2 style="text-align: center;  padding-bottom: 10px;">About Me</h2>
+    <p>
+        I'm a Computer Science Ph.D. candidate at Virginia Tech under the supervision of
+        <a href="https://people.cs.vt.edu/butta/" target="_blank">Dr. Ali Butt</a> at the 
+        <a href="https://dssl.cs.vt.edu/" target="_blank">DSSL lab</a>. With a passion for advancing machine learning technologies, I've been involved in various research projects aimed at optimizing ML systems, particularly in the realm of federated learning that has resulted in several publications. I believe in the power of collaboration, continuous learning, and leveraging technology to solve real-world challenges.
+        </p>
+        <p>Connect with me on: 
+        <a href="https://github.com/AFKD98" target="_blank"><i class="fab fa-github"></i> GitHub</a> | 
+        <a href="https://www.linkedin.com/in/ahmadfarazkhandurrani/" target="_blank"><i class="fab fa-linkedin-in"></i> LinkedIn</a>
+    </p>
+</section>
+​
+<section id="education" style="background-color: #f4f4f4; padding: 20px; border-radius: 10px;">
+    <h2 style="text-align: center;  padding-bottom: 10px;">Education</h2>
+    
+    <div style="margin: 20px 0;">
+        <h3>Ph.D. in Computer Science</h3>
+        <p><strong>Virginia Tech,</strong> Blacksburg, VA</p>
+        <p><em>December 2020 - Present</em></p>
+        <p><strong>Research Focus:</strong> Machine Learning Systems</p>
+        <p><strong>CGPA:</strong> 3.8</p>
+    </div>
+​
+    <div style="margin: 20px 0;">
+        <h3>B.S. in Computer Science</h3>
+        <p><strong>LUMS,</strong> Lahore, Pakistan</p>
+        <p><em>2016-2020</em></p>
+        <p><strong>Advanced Courses:</strong> Distributed Systems, Deep Learning, Machine Learning, Cloud Development, Computer Systems</p>
+    </div>
+</section>
+​
+<section id="publications" style="background-color: #f4f4f4; padding: 20px; border-radius: 10px;">
+    <h2 style="text-align: center;  padding-bottom: 10px;">Publications</h2>
+        <h3>Graduate Research Assistant, DSSL, Virginia Tech</h3>
+        <p>December 2020 - Present</p>
+        <p>Mentor: Dr. Ali Butt, PhD. Purdue University</p>
+        <ul>
+            <li>
+                <span class="conference-tab">ACM EuroSys'24</span>
+                Introduced 'FLOAT', an optimizing Federated Learning framework, leveraging Reinforcement Learning with Human Feedback.
+            </li>
+            <li>
+                <span class="conference-tab">AAAI'24</span>
+                Developed a framework for monetizing personalized FL with system and data heterogeneity.
+            </li>
+            <li>
+                <span class="conference-tab">IEEE BigData'24</span>
+                Developed an adaptive FL aggregator for Edge and IoT, achieving 4x scalability, 8x time efficiency, and 2x cost savings over conventional methods.
+            </li>
+            <li>
+                <span class="conference-tab">AAMAS'24</span>
+                Proposed a lossless and efficient defense for inference attacks in Vertical Federated Learning (VFL).
+            </li>
+            <li>
+                <span class="conference-tab">AAMAS'24</span>
+                Analyzed personalized FL algorithms, revealing trade-offs between privacy and performance.
+            </li>
+            <li>
+                <span class="conference-tab">IEEE Access'24</span>
+                Conducted a survey on adversarial tactics in DNN, DRL, FL, and TL deep learning models.
+            </li>
+            <li>
+                <span class="conference-tab">Under Review</span>
+                Monetized VFL with 'PERFACY-FL', an incentive mechanism using Homomorphic Encryption.
+            </li>
+            <li>
+                <span class="conference-tab">IEEE CLOUD'22</span>
+                Designed and developed an incentivized Federated Learning (FL) system using IBMfl lib.
+            </li>
+            <li>
+                <span class="conference-tab">IEEE BigData'22</span>
+                Designed a heterogeneity-aware adaptive FL scheduling system using IBMfl lib.
+            </li>
+        </ul>
+        <h3>Research Assistant, Networks and Systems Group, LUMS</h3>
+        <p>January 2019 - May 2020</p>
+        <p>Mentor: Dr. Ihsan Ayyub Qazi, PhD. University of Pittsburgh</p>
+        <ul>
+            <li>Executed a comprehensive measurement study on YouTube performance, aiming to pinpoint bottlenecks affecting user experience on low-end devices and networks. Innovated a data-driven video streaming algorithm (DAVS), realizing a 20% QoE enhancement over the state-of-the-art ABR algorithm Pensieve.</li>
+        </ul>
+</section>
+​
+<section id="key-projects" style="background-color: #f4f4f4; padding: 20px; border-radius: 10px;">
+    <h2 style="text-align: center;  padding-bottom: 10px;">Key Projects</h2> 
+    <div style="margin: 20px 0;">
+        <h3>ML System Optimization</h3>
+        <p>Pioneered algorithms to enhance the architecture of ML systems, targeting resource allocation, scalability, and cost-time efficiency.</p>
+    </div>
+​
+    <div style="margin: 20px 0;">
+        <h3>Federated Learning Frameworks</h3>
+        <p>Spearheaded the design and development of both Horizontal and Vertical Federated Learning (HFL & VFL) frameworks. Implemented MLOps pipelines integrated with AWS cloud resources and popular ML libraries such as PyTorch, TensorFlow, and FedScale.</p>
+    </div>
+​
+    <div style="margin: 20px 0;">
+        <h3>Distributed and Containerized System</h3>
+        <p>Designed a system with a dynamic pipeline to support the data analytical modules for Cyber Infrastructure for Waterborne Antibiotic Resistance Risk Surveillance (CI4-WARS).</p>
+    </div>
+​
+    <div style="margin: 20px 0;">
+        <h3>Counter Fuzzing with LLVM</h3>
+        <p>Developed an LLVM-based counter fuzzing approach that's undetectable by leading fuzzers like AFL and balances performance with countermeasures.</p>
+    </div>
+</section>
+​
+<section id="additional-experiences" style="background-color: #f4f4f4; padding: 20px; border-radius: 10px;">
+    <h2 style="text-align: center;  padding-bottom: 10px;">Additional Experiences</h2> 
+​
+    <div style="margin: 20px 0;">
+        <h3>Teaching Roles, Virginia Tech</h3>
+        <p>Instructed courses such as Web/Cloud Development (Fall'24), Python Programming (Spring'20, Fall'21), and Principles of Computer Security (Spring'22).</p>
+    </div>
+​
+    <div style="margin: 20px 0;">
+        <h3>Associate Data Engineer, i2c Inc.</h3>
+        <p>Spearheaded the development and upkeep of distributed sequential databases. Successfully accelerated query times for read-only tasks through database optimization techniques.</p>
+    </div>
+​
+    <div style="margin: 20px 0;">
+        <h3>Internships</h3>
+        <p>Contributed to game development using Unity 3D at Game Storm Studios and fostered intra-company communication with an application in meteorJS at Packages Ltd.</p>
+    </div>
+</section>
+​
+​
+</body>
+</html>
