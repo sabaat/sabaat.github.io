@@ -1,221 +1,135 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Sabaat Haroon",
+    "label": "PhD Candidate in Computer Science",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "sabaat@vt.edu",
+    "phone": "",
+    "summary": "PhD candidate at Virginia Tech researching software engineering, fault localization, and data-intensive scalable computing. Over 4 years of experience with Apache Spark.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Blacksburg",
       "countryCode": "US",
-      "region": "California"
+      "region": "Virginia"
     },
-    "profiles": []
+    "profiles": [
+      { "network": "Website", "username": "sabaat", "url": "https://sabaat.github.io" },
+      { "network": "LinkedIn", "username": "sabaat-haroon-7b35731a2", "url": "https://linkedin.com/in/sabaat-haroon-7b35731a2" },
+      { "network": "GitHub", "username": "sabaat", "url": "https://github.com/sabaat" }
+    ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "Virginia Polytechnic Institute and State University",
+      "position": "Research Assistant",
+      "location": "Blacksburg, VA",
+      "startDate": "2022-08-01",
+      "endDate": "present",
+      "summary": "Supervised by Dr. Muhammad Ali Gulzar. Research on fault localizability of LLMs, DeSQL (interactive SQL debugging for Spark), and AutoSQLDebug.",
+      "highlights": [
+        "Assessing the Impact of Code Changes on the Fault Localizability of Large Language Models (IEEE ICST 2026)",
+        "DeSQL: Interactive Debugging of SQL in Data-Intensive Scalable Computing (ICSE 2024)",
+        "Towards cost-effective and resource-aware aggregation at Edge for Federated Learning (IEEE BigData 2023)"
+      ]
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
+      "name": "Virginia Tech",
+      "position": "Graduate Teaching Assistant",
+      "location": "Blacksburg, VA",
+      "startDate": "2022-08-01",
+      "endDate": "present",
+      "summary": "Delivered recitations and office hours; mentored teams; graded assignments and projects with detailed technical feedback.",
+      "highlights": [
+        "CS 5704: Software Engineering (Aug–Dec 2023)",
+        "CS 5614: Big Data Engineering (Jan–May 2023)",
+        "EE 204: Computer Architecture (Jan–May 2020)"
+      ]
     },
     {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
+      "name": "i2c Inc.",
+      "position": "Associate Software Engineer",
+      "location": "Pakistan",
+      "startDate": "2020-07-01",
+      "endDate": "2021-02-01",
+      "summary": "Deployed enterprise applications. Jira, full SDLC, testing approaches, Kanban, security (SQL Injection, XSS, DDoS).",
       "highlights": []
-    },
-    {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
-      "highlights": []
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
+      "institution": "Virginia Tech",
+      "location": "Blacksburg, VA",
+      "url": "https://vt.edu",
+      "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
+      "startDate": "2022-08-01",
+      "endDate": "present",
+      "score": "CGPA 4.0",
+      "highlights": ["Research in fault localization, LLMs, data-intensive systems"]
     },
     {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
-      "score": "",
-      "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
+      "institution": "Virginia Tech",
+      "location": "Blacksburg, VA",
+      "area": "Computer Science",
+      "studyType": "MS",
+      "startDate": "2022-08-01",
+      "endDate": "2024-12-01",
+      "score": "CGPA 4.0",
+      "highlights": []
+    },
+    {
+      "institution": "FAST NUCES",
+      "location": "Lahore, Pakistan",
+      "area": "Computer Science",
+      "studyType": "BS",
+      "startDate": "2016-01-01",
+      "endDate": "2020-01-01",
+      "score": "Graduated Cum Laude",
+      "courses": ["Software Engineering", "Software Testing", "Computer Architecture", "Operating Systems", "Computer Networks and Security", "Artificial Intelligence", "Database Systems", "Design and Analysis of Algorithms", "Computer Vision"],
+      "highlights": []
     }
   ],
   "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    },
-    {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
-      "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
-    }
+    { "title": "Silver Medalist", "date": "2019", "awarder": "NUCES", "summary": "Spring '19" },
+    { "title": "Bronze Medalist", "date": "2019", "awarder": "NUCES", "summary": "Fall '19" },
+    { "title": "Dean's Honor List", "date": "2016-2020", "awarder": "NUCES", "summary": "Fall 2016, '17, '18, '19 — Spring 2018, '19, '20" }
   ],
   "publications": [
     {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Assessing the Impact of Code Changes on the Fault Localizability of Large Language Models",
+      "publisher": "IEEE ICST 2026",
+      "releaseDate": "2026",
+      "summary": "Evaluates debugging capability of LLMs under code evolution over 750,013 fault-localization tasks; LLMs fail to localize same fault after non-functional changes in 78% of cases."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "DeSQL: Interactive Debugging of SQL in Data-Intensive Scalable Computing",
+      "publisher": "ICSE 2024",
+      "releaseDate": "2024",
+      "summary": "Automated, fine-grained query debugging for Apache Spark SQL; 7.4× less debugging time than naïve approach."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Towards cost-effective and resource-aware aggregation at Edge for Federated Learning",
+      "publisher": "IEEE BigData 2023",
+      "releaseDate": "2023",
+      "summary": "With A.F. Khan, Y. Li, X. Wang, et al."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "Systems & Data",
+      "level": "Advanced",
+      "keywords": ["Apache Spark", "Hadoop", "PySpark", "Spark SQL", "Scala", "Java", "C/C++", "Python", "SQL", "Docker", "Linux", "Git"]
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "name": "ML & AI",
+      "level": "Intermediate",
+      "keywords": ["PyTorch", "TensorFlow", "Keras", "Scikit-learn", "ONNX", "Ollama", "MLFlow", "OpenCV", "NLTK"]
     },
     {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
+      "name": "Web & Tools",
+      "level": "Intermediate",
+      "keywords": ["JavaScript", "AngularJS", "React/Redux", "Node", "Express", "Django", "Spring MVC", "MongoDB", "MySQL", "Pandas", "NumPy", "Jupyter"]
     }
   ]
 }

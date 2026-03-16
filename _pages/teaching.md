@@ -2,14 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Courses taught as Graduate Teaching Assistant at Virginia Tech.
 nav: true
 nav_order: 6
-calendar: true
+calendar: false
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+I have been a **Graduate Teaching Assistant** at Virginia Polytechnic Institute and State University (Virginia Tech) since August 2022. Below are the courses I have supported.
 
 {% include courses.liquid %}
