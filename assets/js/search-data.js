@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Courses taught as Graduate Teaching Assistant at Virginia Tech.",
+          description: "Teaching experience as Graduate Teaching Assistant at Virginia Tech.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -100,17 +100,17 @@ ninja.data = [{
           title: 'CS 5614 - Big Data Engineering',
           description: "Big data systems, distributed computing, and data-intensive applications.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/cs5614-big-data-engineering/";
+              window.location.href = "/teaching/cs5614-big-data-engineering/";
             },},{id: "teachings-cs-5704-software-engineering",
           title: 'CS 5704 - Software Engineering',
-          description: "Graduate-level software engineering. Covers software lifecycle, design, testing, and project management.",
+          description: "Graduate-level software engineering covering the software lifecycle, design, testing, and project management.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/cs5704-software-engineering/";
+              window.location.href = "/teaching/cs5704-software-engineering/";
             },},{id: "teachings-ee-204-computer-architecture",
           title: 'EE 204 - Computer Architecture',
           description: "Computer architecture fundamentals, instruction set design, and hardware-software interface.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/ee204-computer-architecture/";
+              window.location.href = "/teaching/ee204-computer-architecture/";
             },},{
         id: 'social-cv',
         title: 'CV',
