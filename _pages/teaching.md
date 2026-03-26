@@ -27,16 +27,3 @@ I support courses through a full teaching workflow: instruction, recitations, cu
 **Learning Management Systems (LMS)**
 - Managed LMS workflows for distributing materials, tracking progress, and coordinating instructional communication.
 
-{% assign gtas = site.data.cv.cv.sections.Experience | where: "position", "Graduate Teaching Assistant" %}
-{% if gtas and gtas.size > 0 %}
-  <div class="card mt-3 p-3">
-    <h3 class="card-title font-weight-medium">Teaching Experience</h3>
-    {% assign entries = gtas %}
-    {% include cv/experience.liquid %}
-  </div>
-{% endif %}
-
-<div class="mt-4">
-  <h3 class="card-title font-weight-medium">Courses</h3>
-  {% include courses.liquid %}
-</div>
