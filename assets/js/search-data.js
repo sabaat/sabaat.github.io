@@ -51,19 +51,19 @@ ninja.data = [{
           section: "News",},{id: "news-paper-accepted-at-ieee-icst-2026-assessing-the-impact-of-code-changes-on-the-fault-localizability-of-large-language-models-will-appear-at-the-international-conference-on-software-testing-verification-and-validation",
           title: 'Paper accepted at IEEE ICST 2026! “Assessing the Impact of Code Changes on...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-desql",
+          title: 'DeSQL',
+          description: "Interactive SQL debugging for data-intensive scalable systems.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-llm-fault-localization-under-code-evolution",
+          title: 'LLM Fault Localization Under Code Evolution',
+          description: "Large-scale empirical analysis of robustness to non-functional code changes.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-llm-based-test-generation-under-code-changes",
+          title: 'LLM-Based Test Generation Under Code Changes',
+          description: "Empirical study on generated test reliability under evolving programs.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
