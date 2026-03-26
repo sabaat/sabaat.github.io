@@ -39,4 +39,5 @@ My recent research and systems work includes:
 
 I have **over 4 years of hands-on experience with Apache Spark**, including core engine and extension work such as building Spark SQL debugging infrastructure. My publications appear in top-tier venues including **ESEC/FSE**, **ICSE**, and **IEEE ICST**.
 
-I received my **M.S. in Computer Science from Virginia Tech** (2024) and my **B.S. in Computer Science from FAST NUCES, Lahore** (Graduated Cum Laude, 2020). Since 2022, I have served as a **Graduate Teaching Assistant** at Virginia Tech for **CS 5704 (Software Engineering)**, **CS 5614 (Big Data Engineering)**, and **EE 204 (Computer Architecture)**.
+<<<<<<< HEAD
+I received my **M.S. in Computer Science from Virginia Tech** (2024) and my **B.S. in Computer Science from FAST NUCES, Lahore** (Graduated Cum Laude, 2020). I have served as a **Graduate Teaching Assistant** at **Virginia Polytechnic Institute and State University (Virginia Tech)**, supporting CS 5704 (Software Engineering), CS 5614 (Big Data Engineering), and EE 204 (Computer Architecture).
