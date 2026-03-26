@@ -2,9 +2,9 @@ cv:
   name: Sabaat Haroon
   label: PhD Candidate in Computer Science
   email: sabaat@vt.edu
-  location: Blacksburg, VA
+  location: Santa Clara, CA
   image: ""
-  summary: PhD candidate at Virginia Tech researching software engineering, fault localization, and data-intensive scalable computing. Over 4 years of experience with Apache Spark.
+  summary: Dedicated Computer Science educator seeking a lecturer role, with teaching and research experience in Software Engineering, Big Data, Machine Learning, and Computer Architecture through inclusive pedagogy and student mentoring.
 
   social_networks:
     - network: LinkedIn
@@ -15,8 +15,8 @@ cv:
       username: sabaat.github.io
 
   address:
-    city: Blacksburg
-    region: Virginia
+    city: Santa Clara
+    region: California
     countryCode: US
 
   sections:
@@ -26,7 +26,7 @@ cv:
         url: https://vt.edu
         area: Computer Science
         studyType: PhD
-        start_date: "2022"
+        start_date: "2022-08"
         end_date: present
         score: "CGPA 4.0"
         highlights:
@@ -36,8 +36,8 @@ cv:
         location: Blacksburg, VA
         area: Computer Science
         studyType: MS
-        start_date: "2022"
-        end_date: "2024"
+        start_date: "2022-08"
+        end_date: "2024-12"
         score: "CGPA 4.0"
         highlights: []
 
@@ -52,78 +52,83 @@ cv:
         highlights: []
 
     Experience:
-      - company: Virginia Tech
-        position: Research Assistant
-        location: Blacksburg, VA
-        start_date: "2022"
-        end_date: present
-        summary: Supervised by Dr. Muhammad Ali Gulzar (PhD, UCLA). Research on fault localizability of LLMs, DeSQL (interactive SQL debugging for Spark), and AutoSQLDebug.
-        highlights:
-          - "Assessing the Impact of Code Changes on the Fault Localizability of Large Language Models — 750,013 fault-localization tasks; LLMs fail to localize same fault after non-functional changes in 78% of cases"
-          - "DeSQL: Interactive Debugging of SQL in Data-Intensive Scalable Computing — 7.4× less debugging time than naïve approach"
-          - "AutoSQLDebug: Spectrum-Based Fault Localization for SparkSQL — automated debugging with taint analysis"
-          - "Publications in ESEC/FSE'24, ICST'26, ICSE'24, IEEE BigData'23"
-
-      - company: Virginia Tech
+      - company: Virginia Polytechnic Institute and State University (Virginia Tech)
         position: Graduate Teaching Assistant
         location: Blacksburg, VA
-        start_date: "2022"
+        start_date: "2022-08"
         end_date: present
-        summary: Delivered recitations and office hours; mentored teams; graded assignments and projects with detailed technical feedback.
+        summary: Facilitated undergraduate and graduate instruction for CS 5704 (Software Engineering), CS 5614 (Big Data Engineering), and EE 204 (Computer Architecture).
         highlights:
-          - "CS 5704: Software Engineering (Aug–Dec 2023)"
-          - "CS 5614: Big Data Engineering (Jan–May 2023)"
-          - "EE 204: Computer Architecture (Jan–May 2020)"
+          - "Instruction and course management: delivered recitations, guided technical discussions, and reinforced foundational and advanced concepts in software systems and data engineering"
+          - "Student mentoring and academic support: conducted regular office hours, provided individualized mentoring, and supported student success through structured feedback"
+          - "Student assessment: designed grading rubrics, developed quiz and exam components, and evaluated assignments to improve comprehension and code quality"
+          - "Learning management systems: managed LMS workflows for distributing materials, tracking progress, and coordinating instructional communication"
+
+      - company: Virginia Polytechnic Institute and State University (Virginia Tech)
+        position: Research Assistant
+        location: Blacksburg, VA
+        start_date: "2022-08"
+        end_date: present
+        summary: Supervised by Dr. Muhammad Ali Gulzar. Led large-scale empirical studies in AI-assisted software engineering and built systems for debugging data-intensive SQL workloads.
+        highlights:
+          - "Led studies on fault localization with evolving code and LLM-based test generation under code changes, covering 750,013 fault-localization tasks and 22,374 evolved program variants"
+          - "Presented findings and collaborated across teams to translate results into actionable insights for software reliability, program analysis, and computer science education"
+          - "Built DeSQL: Interactive Debugging of SQL in Data-Intensive Scalable Computing, improving debugging efficiency by 7.4x compared to naive workflows"
+          - "Impact: publications in top-tier venues including ESEC/FSE'24 and ICST'26"
 
       - company: i2c Inc.
         position: Associate Software Engineer
         location: Pakistan
         start_date: "2020-07"
         end_date: "2021-02"
-        summary: Deployed enterprise applications. Experience with Jira, full SDLC, testing approaches, Kanban, work breakdown structure, and handling security threats (SQL Injection, XSS, DDoS).
+        summary: Contributed across the full SDLC for enterprise applications over an 8-month tenure, including testing and security hardening against SQL injection, XSS, and DDoS vulnerabilities.
         highlights: []
 
     Awards:
       - title: Silver Medalist
         awarder: NUCES
         date: "2019"
-        summary: Spring '19
+        summary: Spring 2019
       - title: Bronze Medalist
         awarder: NUCES
         date: "2019"
-        summary: Fall '19
+        summary: Fall 2019
       - title: Dean's Honor List
         awarder: NUCES
         date: "2016-2020"
-        summary: Fall 2016, '17, '18, '19 — Spring 2018, '19, '20
+        summary: Fall 2016, 2017, 2018, 2019; Spring 2018, 2019, 2020
 
     Publications:
       - title: "Assessing the Impact of Code Changes on the Fault Localizability of Large Language Models"
         authors: [Sabaat Haroon et al.]
         publisher: IEEE ICST 2026
         releaseDate: "2026"
-      - title: "DeSQL: Interactive debugging of SQL in data-intensive scalable computing"
+      - title: "DeSQL: Interactive Debugging of SQL in Data-Intensive Scalable Computing"
         authors: [Sabaat Haroon et al.]
         publisher: ICSE 2024
         releaseDate: "2024"
-      - title: "Towards cost-effective and resource-aware aggregation at Edge for Federated Learning"
+      - title: "Towards Cost-Effective and Resource-Aware Aggregation at Edge for Federated Learning"
         authors: [A.F. Khan, Y. Li, X. Wang, Sabaat Haroon et al.]
         publisher: IEEE BigData 2023
         releaseDate: "2023"
 
     Skills:
-      - name: Systems & Data
+      - name: Apache Spark
         level: Advanced
         icon: fa-solid fa-database
-        keywords: "Apache Spark, Hadoop, PySpark, Spark SQL, Scala, Java, C/C++, Python, SQL, Docker, Linux, Git"
+        keywords: "Over 4 years of hands-on experience with Apache Spark, specializing in core engine and extensions, including developing a Spark SQL extension for debugging SQL queries"
       - name: Machine Learning & AI
         level: Intermediate
         icon: fa-solid fa-robot
-        keywords: "PyTorch, TensorFlow, Keras, Scikit-learn, ONNX, Ollama, MLFlow, OpenCV, NLTK"
-      - name: Web & Tools
+        keywords: "PyTorch, TensorFlow, Keras, Scikit-learn, ONNX, Ollama, MLFlow, Pandas, NumPy, Pyplot, OpenCV, NLTK, Jupyter"
+      - name: Languages
         level: Intermediate
         icon: fa-solid fa-code
-        keywords: "JavaScript, AngularJS, React/Redux, Node, Express, Django, Spring MVC, MongoDB, MySQL, Pandas, NumPy, Jupyter"
+        keywords: "Scala, Java, C/C++, JavaScript, Python"
+      - name: Tools and Libraries
+        level: Intermediate
+        icon: fa-solid fa-toolbox
+        keywords: "Spark, Hadoop, PySpark, AngularJS, React/Redux, Node, Express, Django, Spring MVC, MongoDB, SQL Server, MySQL, Docker, Linux, Git"
 
     Languages:
       - name: English
