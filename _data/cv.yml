@@ -121,7 +121,7 @@ cv:
         releaseDate: "2026"
       - title: "DeSQL: Interactive Debugging of SQL in Data-Intensive Scalable Computing"
         authors: [Sabaat Haroon et al.]
-        publisher: ICSE 2024
+        publisher: FSE 2024
         releaseDate: "2024"
       - title: "Towards Cost-Effective and Resource-Aware Aggregation at Edge for Federated Learning"
         authors: [A.F. Khan, Y. Li, X. Wang, Sabaat Haroon et al.]

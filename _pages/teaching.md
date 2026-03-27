@@ -13,7 +13,14 @@ I have served as a **Graduate Teaching Assistant** at **Virginia Polytechnic Ins
 I support courses through a full teaching workflow: instruction, recitations, curriculum reinforcement, student mentoring, assessment, and LMS coordination.
 
 **Instruction and Course Management**
-- Facilitated undergraduate and graduate instruction for **CS 5704 (Software Engineering)**, **CS 5614 (Big Data Engineering)**, and **EE 204 (Computer Architecture)**.
+- Facilitated undergraduate and graduate instruction in software engineering, data engineering, database systems, and computer organization.
+- Supported courses by term:
+  - **Spring 2023:** **CS 5614 - Big Data Engineering**
+  - **Fall 2023:** **CS 5704 - Software Engineering**
+  - **Spring 2024:** **CS 2506 - Computer Organization II**
+  - **Fall 2024:** **CS 2506 - Computer Organization II**
+  - **Spring 2025:** **CS 5614 - Database Management Systems**
+  - **Fall 2025:** **CS 2506 - Computer Organization II**
 
 **Curriculum Development and Instructional Design**
 - Delivered recitations, guided technical discussions, and reinforced foundational and advanced concepts in software systems and data engineering.

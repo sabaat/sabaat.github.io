@@ -29,7 +29,7 @@
       "summary": "Supervised by Dr. Muhammad Ali Gulzar. Research on fault localizability of LLMs, DeSQL (interactive SQL debugging for Spark), and AutoSQLDebug.",
       "highlights": [
         "Assessing the Impact of Code Changes on the Fault Localizability of Large Language Models (IEEE ICST 2026)",
-        "DeSQL: Interactive Debugging of SQL in Data-Intensive Scalable Computing (ICSE 2024)",
+        "DeSQL: Interactive Debugging of SQL in Data-Intensive Scalable Computing (FSE 2024)",
         "Towards cost-effective and resource-aware aggregation at Edge for Federated Learning (IEEE BigData 2023)"
       ]
     },
@@ -107,7 +107,7 @@
     },
     {
       "name": "DeSQL: Interactive Debugging of SQL in Data-Intensive Scalable Computing",
-      "publisher": "ICSE 2024",
+      "publisher": "FSE 2024",
       "releaseDate": "2024",
       "summary": "Automated, fine-grained query debugging for Apache Spark SQL; 7.4× less debugging time than naïve approach."
     },
