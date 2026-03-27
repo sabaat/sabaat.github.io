@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-presentations",
+          title: "presentations",
+          description: "Conference presentations, guest lectures, and outreach talks.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/presentations/";
+          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
@@ -45,8 +52,8 @@ ninja.data = [{
             },},{id: "news-paper-accepted-at-ieee-bigdata-2023-towards-cost-effective-and-resource-aware-aggregation-at-edge-for-federated-learning-with-a-f-khan-y-li-x-wang-et-al",
           title: 'Paper accepted at IEEE BigData 2023! “Towards cost-effective and resource-aware aggregation at Edge...',
           description: "",
-          section: "News",},{id: "news-paper-accepted-at-icse-2024-desql-interactive-debugging-of-sql-in-data-intensive-scalable-computing-automated-fine-grained-query-debugging-for-apache-spark-sql-with-7-4-faster-debugging-time",
-          title: 'Paper accepted at ICSE 2024! “DeSQL: Interactive Debugging of SQL in Data-Intensive Scalable...',
+          section: "News",},{id: "news-paper-accepted-at-fse-2024-desql-interactive-debugging-of-sql-in-data-intensive-scalable-computing-automated-fine-grained-query-debugging-for-apache-spark-sql-with-7-4-faster-debugging-time",
+          title: 'Paper accepted at FSE 2024! “DeSQL: Interactive Debugging of SQL in Data-Intensive Scalable...',
           description: "",
           section: "News",},{id: "news-paper-accepted-at-ieee-icst-2026-assessing-the-impact-of-code-changes-on-the-fault-localizability-of-large-language-models-will-appear-at-the-international-conference-on-software-testing-verification-and-validation",
           title: 'Paper accepted at IEEE ICST 2026! “Assessing the Impact of Code Changes on...',
