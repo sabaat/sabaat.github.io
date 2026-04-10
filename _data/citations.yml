@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-04-10'
 papers:
   opKquMQAAAAJ:2osOgNQ5qMEC:
     citations: 8
@@ -14,6 +14,10 @@ papers:
     title: 'DeSQL: Interactive debugging of SQL in data-intensive scalable computing'
     year: '2024'
   opKquMQAAAAJ:u-x6o8ySG0sC:
-    citations: 7
+    citations: 8
     title: Towards cost-effective and resource-aware aggregation at Edge for Federated Learning
     year: '2023'
+  opKquMQAAAAJ:zYLM7Y9cAGgC:
+    citations: 0
+    title: Evaluating LLM-Based Test Generation Under Software Evolution
+    year: '2026'
