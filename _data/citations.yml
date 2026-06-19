@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-19'
 papers:
   opKquMQAAAAJ:2osOgNQ5qMEC:
     citations: 11
@@ -10,14 +10,14 @@ papers:
     title: Assessing the Impact of Code Changes on the Fault Localizability of Large Language Models
     year: '2025'
   opKquMQAAAAJ:d1gkVwhDpl0C:
-    citations: 5
+    citations: 6
     title: 'DeSQL: Interactive debugging of SQL in data-intensive scalable computing'
     year: '2024'
   opKquMQAAAAJ:u-x6o8ySG0sC:
-    citations: 9
+    citations: 10
     title: Towards cost-effective and resource-aware aggregation at Edge for Federated Learning
     year: '2023'
   opKquMQAAAAJ:zYLM7Y9cAGgC:
-    citations: 1
+    citations: 2
     title: Evaluating LLM-Based Test Generation Under Software Evolution
     year: '2026'
