@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-31'
 papers:
   opKquMQAAAAJ:2osOgNQ5qMEC:
-    citations: 12
+    citations: 13
     title: 'Lads: Leveraging llms for ai-driven devops'
     year: '2025'
   opKquMQAAAAJ:UeHWp8X0CEIC:
@@ -10,7 +10,7 @@ papers:
     title: Assessing the Impact of Code Changes on the Fault Localizability of Large Language Models
     year: '2025'
   opKquMQAAAAJ:d1gkVwhDpl0C:
-    citations: 7
+    citations: 8
     title: 'DeSQL: Interactive debugging of SQL in data-intensive scalable computing'
     year: '2024'
   opKquMQAAAAJ:u-x6o8ySG0sC:
@@ -18,6 +18,6 @@ papers:
     title: Towards cost-effective and resource-aware aggregation at Edge for Federated Learning
     year: '2023'
   opKquMQAAAAJ:zYLM7Y9cAGgC:
-    citations: 2
+    citations: 1
     title: Evaluating LLM-Based Test Generation Under Software Evolution
     year: '2026'
